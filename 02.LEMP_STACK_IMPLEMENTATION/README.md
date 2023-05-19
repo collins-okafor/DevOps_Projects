@@ -1,0 +1,3 @@
+# DEPLOYING A LEMP STACK APPLICATION ON AWS CLOUD
+
+A LEMP stack application is a web application that is built on top of the LEMP stack. The LEMP stack is an acronym that stands for Linux, Nginx, MySQL, and PHP. These are four open-source software technologies that are commonly used together to serve web applications. It is an alternative to the [LAMP Stack Application](https://github.com/collins-okafor/Deploying_A_LAMP_Stack_Application_on_AWS_Cloud/blob/main/project.md, 'My github article on LAMP Stack deployment')
